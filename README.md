@@ -34,8 +34,12 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [Employee-UI](https://github.com/kavinda1996/Employee-UI)
+### 🔹 [Employee-Frontend](https://github.com/kavinda1996/Employee-Frontend)
 > A beautiful front-end for managing employee records built using Angular.
+
+### 🔹 [Employee-Backend](https://github.com/kavinda1996/Employee-Backend)
+> A robust Spring Boot REST API for managing employee data, providing full CRUD operations, secure endpoints, and integration support for the Angular front-end.
+
 
 ### 🔹 [Customer Management Full-Stack Project](https://github.com/kavinda1996/customer-management-full-stack-project)
 > Full-stack project using Spring Boot backend and Angular frontend.
